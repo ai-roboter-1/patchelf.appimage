@@ -16,10 +16,10 @@ chmod u+x patchelf-x86_64.AppImage
 
 ## Downloads
 
-[![i386](https://img.shields.io/badge/PatchELF-i386-blue.svg)](https://github.com/niess/patchelf.appimage/releases/download/rolling/patchelf-i386.AppImage)
-[![x86_64](https://img.shields.io/badge/PatchELF-x86_64-blue.svg)](https://github.com/niess/patchelf.appimage/releases/download/rolling/patchelf-x86_64.AppImage)
+[![aarch64](https://img.shields.io/badge/PatchELF-arrch64-blue.svg)](https://github.com/ai-roboter-1/patchelf.appimage/releases/download/v1.0-beta/patchelf-aarch64.AppImage)
+[![x86_64](https://img.shields.io/badge/PatchELF-x86_64-blue.svg)](https://github.com/ai-roboter-1/patchelf.appimage/releases/download/v1.0-beta/patchelf-x86_64.AppImage)
 
 
 [APPIMAGE]:         https://appimage.org
 [PATCHELF]:         https://nixos.org/patchelf.html
-[ROLLING_RELEASES]: https://github.com/niess/patchelf.appimage/releases
+[RELEASES]: https://github.com/niess/patchelf.appimage/releases
